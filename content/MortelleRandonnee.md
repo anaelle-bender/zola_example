@@ -1,6 +1,6 @@
 +++
 title = "Mortelle Randonnée"
-description = "Un jeu génial "
+description = "Un jeu génial pour qui aime la violence "
 date = 2022-07-22T00:00:00Z
 draft = false
 
