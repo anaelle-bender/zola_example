@@ -24,8 +24,7 @@
         <id>https://anaelle-bender.github.io/zola_example/mortellerandonnee/</id>
         
         <content type="html" xml:base="https://anaelle-bender.github.io/zola_example/mortellerandonnee/">&lt;p&gt;Tattaaaaaaaaaa&lt;&#x2F;p&gt;
-&lt;p&gt;!(https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png)&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo&quot; title=&quot;Logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align: left&quot;&gt;Bla&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: left&quot;&gt;Blabla&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: right&quot;&gt;Blablabla&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;Bim&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: left&quot;&gt;Blabla&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;Blablabla&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;Bam&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: left&quot;&gt;Blabla&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;Blablabla&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
