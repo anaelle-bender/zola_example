@@ -306,10 +306,14 @@
 &lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;Boum&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: left&quot;&gt;Blabla&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;Blablabla&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;Note biblio[^1]&lt;&#x2F;p&gt;
+&lt;p&gt;Note biblio&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Test lien
 &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;Lien&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;[^1] voici&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;voici &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
 </content>
         
     </entry>
