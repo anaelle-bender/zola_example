@@ -32,8 +32,10 @@
 &lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;Boum&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: left&quot;&gt;Blabla&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;Blablabla&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;Note biblio[^1]
-https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&lt;&#x2F;p&gt;
+&lt;p&gt;Note biblio[^1]&lt;&#x2F;p&gt;
+&lt;p&gt;Test lien
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;Lien&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;[^1] voici&lt;&#x2F;p&gt;
 </content>
         
     </entry>
