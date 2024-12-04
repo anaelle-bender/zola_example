@@ -36,5 +36,5 @@ Test lien
  
  
  
- [^1] voici
+ [^1]: voici
 		
