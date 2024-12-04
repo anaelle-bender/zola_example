@@ -298,6 +298,9 @@
         <id>https://anaelle-bender.github.io/zola_example/mortellerandonnee/</id>
         
         <content type="html" xml:base="https://anaelle-bender.github.io/zola_example/mortellerandonnee/">&lt;p&gt;Tattaaaaaaaaaa&lt;&#x2F;p&gt;
+&lt;p&gt;!https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&lt;&#x2F;p&gt;
+&lt;p&gt;|Bla|Blabla|Blablabla|
+|1	|2		|3		]&lt;&#x2F;p&gt;
 </content>
         
     </entry>
